@@ -1,0 +1,2 @@
+{:deps {tick/tick {:mvn/version "0.4.27-alpha"}
+        clj-time/clj-time {:mvn/version "0.15.2"}}}
